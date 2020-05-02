@@ -1,0 +1,33 @@
+{
+  "@@last_modified": "2020-04-30T07:04:35.938228",
+  "title": "Flutter Sample",
+  "@title": {
+    "description": "The title of app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabSamplesTitle": "Samples",
+  "@tabSamplesTitle": {
+    "description": "Title for Samples tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabCategoriesTitle": "Categories",
+  "@tabCategoriesTitle": {
+    "description": "Title for Categories tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabWebViewTitle": "WebView",
+  "@tabWebViewTitle": {
+    "description": "Title for WebView tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabSettingsTitle": "Settings",
+  "@tabSettingsTitle": {
+    "description": "Title for Settings tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  }
+}
